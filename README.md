@@ -5,7 +5,6 @@ Welcome to my GitHub page! I am a beginner programmer with a desire to learn. I 
 
 <h3>I am in the process of learning...</h3>
   <ul>
-    <li>Bash Scripting</li>
     <li>HTML</li>
     <li>CSS</li>
     <li>JavaScript</li>
