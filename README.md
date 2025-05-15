@@ -1,7 +1,6 @@
 <h1>Amanda Gurney | Computer Programming Graduate</h1>
 <h2>She / They | 25 | Canada</h2>
-Welcome to my GitHub page! I am a beginner programmer with a desire to learn. I am currently taking courses with George Brown College in Toronto. I am not too certain on what I want to focus on, so I am dipping my toe into whatever languages interest me at the moment. I am still learning, and am always open to suggestions or help. It's much appreciated!
-
+Welcome to my GitHub page! I am an aspiring software developer with a desire to learn. I have recently graduated with a diploma in Computer Programming and Analysis at George Brown College in Toronto.
 
 
 <!--
