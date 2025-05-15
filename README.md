@@ -8,6 +8,7 @@ Welcome to my GitHub page! I am an aspiring software developer with a desire to 
 - HTML, CSS, JavaScript.
 - React, TypeScript.
 - Angular, GraphQL.
+- Node, Express.JS.
 - MongoDB.
 - PostgreSQL.
 - Docker.
