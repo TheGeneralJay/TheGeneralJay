@@ -1,5 +1,5 @@
 <h1>Amanda Gurney | Software Developer</h1>
-<h2>25 | Canada</h2>
+<h2>26 | Canada</h2>
 Welcome to my GitHub page! I am a software developer with a desire to learn. I have recently graduated with an Ontario advanced diploma in Computer Programming and Analysis at George Brown College in Toronto.
 
 <hr />
